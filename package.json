@@ -8,4 +8,7 @@
   },
   "author": "Pablo Murad",
   "license": "UNLICENSED"
+  "publishConfig": {
+@runawaydevil:registry=https://runawaydevil123.github.com
+}
 }
